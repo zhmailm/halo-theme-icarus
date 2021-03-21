@@ -168,9 +168,14 @@ sidebar:
       placeholder: 'QQ 号'
     social_weibo:
       name: social_weibo
-      label: 微博
+      label: 微信
       type: text
       placeholder: '微博用户名'
+    social_weixin:
+      name: social_weixin
+      label: 微博
+      type: text
+      placeholder: '微信二维码图片链接'
     social_twitter:
       name: social_twitter
       label: Twitter

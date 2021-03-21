@@ -11,8 +11,6 @@
                 </a>
                 <p class="is-size-7">
                     &copy; ${.now?string('yyyy')} ${user.nickname!}&nbsp;
-                    Powered by <a href="https://halo.run/" target="_blank">Halo</a> & <a
-                            href="https://github.com/halo-dev/halo-theme-icarus" target="_blank">Icarus</a>
                     <br />
                     <@global.footer />
                 </p>

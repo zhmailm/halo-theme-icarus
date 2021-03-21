@@ -26,5 +26,11 @@
                 </@paginationTag>
             </nav>
         </div>
+        <#else>
+        <div class="level">
+            <div class="level-item has-text-centered">
+                没有你要找的内容
+            </div>
+        </div>
     </#if>
 </@layout>
